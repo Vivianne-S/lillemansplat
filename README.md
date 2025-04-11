@@ -1,2 +1,2 @@
 # lillemansplat
-first webbsite created for company 
+first website created for company 
